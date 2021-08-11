@@ -4,13 +4,13 @@ Two of the most fundamental concepts in computer science are:
 
 1. Memory
 2. Variables
+   
+## Memory
 
 *Memory* is a mechanism for storing information<sup>1</sup>. In contemporary, digital, programmable computers, memory is either:
 
 1. Volatile
 2. Non-volatile (NVM)
-
-## Memory
 
 *Volatile* memory only stores information while it has power supplied to it. *Non-volatile* memory may store information with or without power.
 
