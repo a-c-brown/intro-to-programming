@@ -10,13 +10,13 @@ Two of the most fundamental concepts in computer science are:
 *Memory* is a mechanism for storing information<sup>1</sup>. In contemporary, digital, programmable computers, memory is either:
 
 1. Volatile
-2. Non-volatile (NVM)
+2. Non-volatile (NV)
 
 *Volatile* memory only stores information while it has power supplied to it. *Non-volatile* memory may store information with or without power.
 
 In this course, the files we work with can be saved to non-volatile memory so that the information they contain can be retrieved even if the media on which they are stored loses power. 
 
-When the information in these files is read by a computer, that information is stored in volatile memory. It will be lost when its storage media loses power, or instructions are given to remove it from that media.
+When the information in these files is read by a program, that information is stored in volatile memory. It will be lost when its storage media loses power, or instructions are given to remove it from that media.
 
 ## Variables
 
